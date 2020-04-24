@@ -1,0 +1,18 @@
+
+	1 - Para Abrir o Projeto
+
+Crie uma pasta no disco C: chamado projeto e coloque o projeto dentro dessa pasta.
+
+Abra o terminal de comando e vá atá a pasta C:projeto
+
+Com o terminal de comando entre dentro do projeto e digite: npm install
+
+Pronto, seu projeto estara rodando em breve.
+
+	2 - Desafio proposto
+
+Peque os dados de uma API e faça um programa em react que mostre os dados
+dessa API na tela do programa.
+Obs: A API contem numeros, letras e imagens.
+
+API usada: https://sujeitoprogramador.com/r-api/?api=filmes
